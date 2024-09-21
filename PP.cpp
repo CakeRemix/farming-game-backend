@@ -443,5 +443,5 @@ void help ()
     cout<<"you can use show plants to show currently planted plants\n";
     cout<<"show money shows current money\n";
     cout<<"quit ends the game\n";
-    cout<<"you cab use help to call for help\n";
+    cout<<"you can use help to call for help\n";
 }
