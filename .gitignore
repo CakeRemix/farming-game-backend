@@ -1,0 +1,44 @@
+# Build artifacts
+build/
+bin/
+*.o
+*.out
+*.exe
+AgriTopia
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.cmake
+install_manifest.txt
+CTestTestfile.cmake
+_deps/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.ipch
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled object files
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Dependency files
+*.d
